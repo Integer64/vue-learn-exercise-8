@@ -1,6 +1,5 @@
-# vue-cli
-
-> A Vue.js project
+# Udemy course "Vue JS 2 - The Complete Guide"
+## Exercise 7
 
 ## Build Setup
 
